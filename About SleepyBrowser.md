@@ -1,7 +1,7 @@
 # SleepyBrowser
 
 ## Welcome to SleepyBrowser
-Your gentle guide to restful sleep
+The Sleepiest Browser in the World!
 
 ---
 
