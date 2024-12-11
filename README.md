@@ -1,7 +1,4 @@
 # SleepyBrowser
-![Sleep-removebg-preview](https://github.com/user-attachments/assets/c4566cc1-9bc8-4ff5-a9f8-8dd8f4964013)
-
-
 
 ## Welcome to SleepyBrowser
 The Sleepiest Browser in the World!
@@ -42,3 +39,6 @@ Contact me here or BrandonTreeTLC@outlook.com!
 
 Special thanks to OpenAI’s ChatGPT for coding support and to Brandon Howard for inspiring this project.
 &copy; 2024 SleepyBrowser. All rights reserved.
+
+
+![Sleep-removebg-preview](https://github.com/user-attachments/assets/c4566cc1-9bc8-4ff5-a9f8-8dd8f4964013)
